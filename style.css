@@ -19,16 +19,6 @@ p {
   color: #676767;
 }
 
-
-.frame {
-  width: 90%;
-  margin: 40px auto;
-  text-align: center;
-}
-button {
-  margin: 20px;
-}
-
 .topnav {
   overflow: hidden;
   background-color: #333;
@@ -51,6 +41,15 @@ button {
 .topnav a.active {
   background-color: #CA0FF0;
   color: white;
+}
+
+.frame {
+  width: 90%;
+  margin: 40px auto;
+  text-align: center;
+}
+button {
+  margin: 20px;
 }
 
 .polaroid {
